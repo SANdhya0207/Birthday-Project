@@ -1,0 +1,212 @@
+[
+  {
+    "image": "assets/goodPhoto/goodPhoto1.jpeg",
+    "caption": "Special Moments",
+    "category": "memories",
+    "date": "2022-11-03"
+  },
+  {
+    "image": "assets/goodPhoto/goodPhoto2.jpeg",
+    "caption": "Special Moments",
+    "category": "memories",
+    "date": "2023-10-14"
+  },
+  {
+    "image": "assets/goodPhoto/goodPhoto3.jpeg",
+    "caption": "Special Moments",
+    "category": "memories",
+    "date": "2022-12-12"
+  },
+  {
+    "image": "assets/adventureTrip/adventureTrip1.jpeg",
+    "caption": "Adventure Trip Memories",
+    "category": "adventure",
+    "date": "2022-12-02"
+  },
+  {
+    "image": "assets/adventureTrip/adventureTrip2.jpeg",
+    "caption": "Adventure Trip Memories",
+    "category": "adventure",
+    "date": "2022-12-02"
+  },
+  {
+    "image": "assets/adventureTrip/adventureTrip3.jpeg",
+    "caption": "Adventure Trip Memories",
+    "category": "adventure",
+    "date": "2022-12-02"
+  },
+  {
+    "image": "assets/adventureTrip/adventureTrip4.jpeg",
+    "caption": "Adventure Trip Memories",
+    "category": "adventure",
+    "date": "2023-03-15"
+  },
+  {
+    "image": "assets/adventureTrip/adventureTrip5.jpeg",
+    "caption": "Adventure Trip Memories",
+    "category": "adventure",
+    "date": "2022-12-02"
+  },
+  {
+    "image": "assets/adventureTrip/adventureTrip6.jpeg",
+    "caption": "Adventure Trip Memories",
+    "category": "adventure",
+    "date": "2022-12-02"
+  },
+  {
+    "image": "assets/adventureTrip/adventureTrip7.jpeg",
+    "caption": "Adventure Trip Memories",
+    "category": "adventure",
+    "date": "2022-12-02"
+  },
+  {
+    "image": "assets/adventureTrip/adventureTrip8.jpeg",
+    "caption": "Adventure Trip Memories",
+    "category": "adventure",
+    "date": "2023-03-15"
+  },
+  {
+    "image": "assets/birthdaycelebration/birthdayCelebration1.jpeg",
+    "caption": "Birthday Celebration Moments",
+    "category": "birthday",
+    "date": "2023-03-02"
+  },
+  {
+    "image": "assets/birthdaycelebration/birthdayCelebration2.jpeg",
+    "caption": "Birthday Celebration Moments",
+    "category": "birthday",
+    "date": "2022-07-02"
+  },
+  {
+    "image": "assets/birthdaycelebration/birthdayCelebration3.jpeg",
+    "caption": "Birthday Celebration Moments",
+    "category": "birthday",
+    "date": "2023-03-02"
+  },
+  {
+    "image": "assets/birthdaycelebration/birthdayCelebration4.jpeg",
+    "caption": "Birthday Celebration Moments",
+    "category": "birthday",
+    "date": "2023-03-02"
+  },
+  {
+    "image": "assets/birthdaycelebration/birthdayCelebration5.jpeg",
+    "caption": "Birthday Celebration Moments",
+    "category": "birthday",
+    "date": "2022-11-03"
+  },
+  {
+    "image": "assets/birthdaycelebration/birthdayCelebration6.jpeg",
+    "caption": "Birthday Celebration Moments",
+    "category": "birthday",
+    "date": "2022-11-03"
+  },
+  {
+    "image": "assets/firstShortTrip/firstShortTrip1.jpeg",
+    "caption": "Our First Short Trip Together",
+    "category": "trips",
+    "date": "2022-07-14"
+  },
+  {
+    "image": "assets/firstShortTrip/firstShortTrip2.jpeg",
+    "caption": "Our First Short Trip Together",
+    "category": "trips",
+    "date": "2022-07-14"
+  },
+  {
+    "image": "assets/firstShortTrip/firstShortTrip3.jpeg",
+    "caption": "Our First Short Trip Together",
+    "category": "trips",
+    "date": "2022-07-14"
+  },
+  {
+    "image": "assets/firstShortTrip/firstShortTrip4.jpeg",
+    "caption": "Our First Short Trip Together",
+    "category": "trips",
+    "date": "2022-07-14"
+  },
+  {
+    "image": "assets/firstShortTrip/firstShortTrip5.jpeg",
+    "caption": "Our First Short Trip Together",
+    "category": "trips",
+    "date": "2022-07-14"
+  },
+  {
+    "image": "assets/firstShortTrip/firstShortTrip6.jpeg",
+    "caption": "Our First Short Trip Together",
+    "category": "trips",
+    "date": "2022-07-14"
+  },
+  {
+    "image": "assets/firstTrip/firstTrip1.jpeg",
+    "caption": "Our First Big Trip Memories",
+    "category": "trips",
+    "date": "2024-11-09"
+  },
+  {
+    "image": "assets/firstTrip/firstTrip2.jpeg",
+    "caption": "Our First Big Trip Memories",
+    "category": "trips",
+    "date": "2024-11-09"
+  },
+  {
+    "image": "assets/firstTrip/firstTrip3.jpeg",
+    "caption": "Our First Big Trip Memories",
+    "category": "trips",
+    "date": "2024-11-09"
+  },
+  {
+    "image": "assets/firstTrip/firstTrip4.jpeg",
+    "caption": "Our First Big Trip Memories",
+    "category": "trips",
+    "date": "2024-11-10"
+  },
+  {
+    "image": "assets/firstTrip/firstTrip5.jpeg",
+    "caption": "Our First Big Trip Memories",
+    "category": "trips",
+    "date": "2024-11-11"
+  },
+  {
+    "image": "assets/firstTrip/firstTrip6.jpeg",
+    "caption": "Our First Big Trip Memories",
+    "category": "trips",
+    "date": "2024-11-11"
+  },
+  {
+    "image": "assets/funPhotos/funPhoto1.jpeg",
+    "caption": "Fun Times Together",
+    "category": "fun",
+    "date": "2023-10-14"
+  },
+  {
+    "image": "assets/funPhotos/funPhoto2.jpeg",
+    "caption": "Fun Times Together",
+    "category": "fun",
+    "date": "2022-11-11"
+  },
+  {
+    "image": "assets/funPhotos/funPhoto3.jpeg",
+    "caption": "Fun Times Together",
+    "category": "fun",
+    "date": "2022-12-02"
+  },
+  {
+    "image": "assets/funPhotos/funPhoto4.jpeg",
+    "caption": "Fun Times Together",
+    "category": "fun",
+    "date": "2023-10-01"
+  },
+  {
+    "image": "assets/funPhotos/funPhoto5.jpeg",
+    "caption": "Fun Times Together",
+    "category": "fun",
+    "date": "2023-10-01"
+  },
+  {
+    "image": "assets/funPhotos/funPhoto6.jpeg",
+    "caption": "Fun Times Together",
+    "category": "fun",
+    "date": "2023-10-01"
+  }
+]

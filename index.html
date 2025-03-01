@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Happy Birthday!</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  </head>
+  <body>
+    <!-- Canvas for fireworks -->
+    <canvas id="birthday"></canvas>
+
+    <div class="container">
+      <h1>Happy Birthday, Aisha Singh! 🎉</h1>
+      <div class="birthday-message">
+        <p class="special-text">On your special day, I want to wish you a great successful life that you always dream of.</p>
+      </div>
+      
+       <!-- Music Player -->
+       <div class="music-player">
+        <audio id="bgMusic" loop>
+          <source src="assets/musics/BirthdaySong.mp3" type="audio/mp3">
+        </audio>
+        <button id="toggleMusic" class="music-btn">
+          <i class="fa-solid fa-music"></i>
+          <span class="music-text">Play Music</span>
+        </button>
+      </div>
+
+      <!-- Birthday Countdown -->
+      <div id="birthday-countdown" class="countdown"></div>
+      
+      <!-- Memory Categories -->
+      <div class="memory-categories">
+        <button class="category-btn active" data-category="memories">Special Memories</button>
+        <button class="category-btn" data-category="birthday">Birthday Celebrations</button>
+        <button class="category-btn" data-category="adventure">Adventure Trips</button>
+        <button class="category-btn" data-category="trips">Trips</button>
+        <button class="category-btn" data-category="fun">Fun Moments</button>
+      </div>
+
+      <div id="memories-container" class="grid"></div>
+      
+      <!-- Birthday Wishes Section -->
+      <div class="wishes-section">
+        <h2>Birthday Wishes</h2>
+        <div class="wish-card">
+          <p class="quote">"A friend like you is what makes life so special. Happy Birthday! 🌟"</p>
+        </div>
+      </div>
+      
+      <!-- Interactive Birthday Cake -->
+      <div class="birthday-cake">
+        <button id="make-wish">Make a Wish! 🎂</button>
+      </div>
+
+      <!-- Photo Slideshow -->
+      <div class="slideshow-container">
+        <div class="slideshow-wrapper"></div>
+        <button class="slide-btn prev">❮</button>
+        <button class="slide-btn next">❯</button>
+      </div>
+
+      <!-- Friendship Timeline -->
+      <div class="timeline-section">
+        <h2>Our Friendship Timeline</h2>
+        <div class="timeline"></div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
